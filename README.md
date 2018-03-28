@@ -3,7 +3,7 @@
 ## Content Requirements (10pts)
 Using your entire 2nd semester class schedule, create a time table that follows the exact same format as the one pictured below. 
 
-![Schedule Table Example](https://github.com/ms-marinelli/P03-SchedulingTable/blob/master/SchedulePic.png "Schedule Table Example")
+![Schedule Table Example](https://github.com/paduawebdesign/P03-ClassSchedule/blob/master/SchedulePic.png "Schedule Table Example")
 
 ## Technical Requirements & Header Section (20pts)
 * Use the full HTML structure - `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>`, `<body>`
